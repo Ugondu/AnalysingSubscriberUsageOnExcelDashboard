@@ -1,4 +1,4 @@
-# “Social Buzz” Customer usage Analysis.
+# “Social Buzz” Customer usage Analysis using Excel Dashboard.
 *![image](https://github.com/Ugondu/SocialBuzzCustomerAnalysisUsingExcel/assets/113315492/24cf6d33-1d28-49ee-b498-b0360ddc0a7d)*
 ## Table of Contents.
 - [Business Overview](#business-overview)
