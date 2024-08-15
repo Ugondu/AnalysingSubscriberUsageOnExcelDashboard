@@ -118,10 +118,14 @@ The final dashboard will show the metrics vital to the providing solutions to th
 
 ## Insights
 
-From the data made available, there are 16 unique categories of post which includes Food, science, animals etc. From the animal category, there were 1897 reactions from the users on Social Buzz showing connection of your users to nature.
+From the data made available, there are 16 unique categories of post which includes Food, science, animals etc. 
+From the animal category, there were 1897 reactions from the users on Social Buzz showing connection of your users to nature.
+
 January showed the highest number of active users which could be associated to seasonality obviously after christmas. 
 
-Furthermore, detailed analysis show that categories such as animals, science, health eating, and food were very popular amongst your users. This shows that majority of active users on the platform are keen on healthy eating, interested in contents that are educative as seen in the posts on science and technology.
+Furthermore, detailed analysis show that categories such as animals, science, health eating, and food were very popular amongst your users. 
+
+This shows that majority of active users on the platform are keen on healthy eating, interested in contents that are educative as seen in the posts on science and technology.
 
 # Recommendation
 
